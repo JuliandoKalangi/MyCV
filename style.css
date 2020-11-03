@@ -3,7 +3,15 @@ body {
 	font-family: Lucida Fax;
 }
 div.CV {
+	background-color: white;
+	width: 1000px;
+	height: 300px;	
+}
+div.more{
+	position: absolute;
 	background-color: #4b9fbb;
+	width: 870px;
+	height: 260px;
 }
 div.shortcut {
 	font-family: Cooper Black;
@@ -12,6 +20,18 @@ div.shortcut {
 	background-color: #eefb5e;
 	position: sticky;
 	top: 0px;
+	color: inherit;
+}
+div.personal {
+	background-color: aqua;
+	width: 20px;
+	height: 20px;
+	right: 20	px;
+}
+img.img1 {
+	background-color: #4b9fbb; 
+	width: 200px;
+	height: 200px;
 }
 div.box1 {
 	background-color: #4b9fbb;
